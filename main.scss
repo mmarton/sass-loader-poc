@@ -1,1 +1,2 @@
-@import '~@fontsource/gloria-hallelujah';
+@import '~@fontsource/gloria-hallelujah/index.css'; // This works fine
+//@import '~@fontsource/gloria-hallelujah'; // But using it this way works only with legacy mode enabled
