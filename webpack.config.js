@@ -23,9 +23,7 @@ module.exports = {
                     },
                     {
                         loader: "sass-loader",
-                        options: {
-                             // api: "legacy",
-                        },
+                        options: { api: "legacy" },
                     },
                 ]
             }
